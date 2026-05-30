@@ -14,7 +14,7 @@ A Random Forest Classifier was trained on 100,000 lead records and deployed usin
 
 ### Dashboard
 
-![Project Dashboard](project_ui.png)
+![Project Dashboard](project_ui.png.png)
 
 
 
